@@ -1,9 +1,9 @@
 #!/bin/bash
 
-pip install rembg --break-system-packages 
+pip install rembg argparse --break-system-packages 
 clear
 
-sudo cp -r removeback.py /bin/removeback
+sudo cp -r removeback.py /bin/rmback
 sudo chmod +x /bin/removeback
 
 exit
