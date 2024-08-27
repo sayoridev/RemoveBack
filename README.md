@@ -6,6 +6,6 @@ python3
 pip3
 
 ```
-chmod +x
+chmod +x install.sh
 ./install.sh
 ```
